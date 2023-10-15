@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include!<bits/stdc++.h>
 using namespace std;
 
 bool canJump(vector<int>& arr) {
@@ -26,3 +26,4 @@ int main(){
     }
 	return 0;
 }
+ 
